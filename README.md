@@ -11,3 +11,21 @@ It can be used to ship pure Python products as a single file on Unix platforms, 
 We have been using PyRun internally at eGenix for many years and open sourced it back in 2012. This year, we are moving the project to Github and relaunching it, in order to present it to the wider open source and Python community.
 
 The talk will go into details on how PyRun is built from the Python source tree, how to create your own single file Python apps, where it can be put to good use, the roadmap we have for PyRun and what its limitations are.
+
+## Slides
+
+PDF slides of the talk will be available for download on this page:
+
+- *EuroPython 2024 Talk Slides as PDF*
+
+These are released under the same license as the other files in this directory.
+
+## Conference and Events
+
+This talk was or will be held at the following events:
+- [Python Meeting Düsseldorf](https://pyddf.de/) on 2024-07-03
+- [EuroPython 2024]([https://2024.pycon.it/en/event/advanced-parsing-of-structured-data-using-pythons-new-match-statement](https://ep2024.europython.eu/session/shipping-ready-to-run-python-apps-without-the-need-to-install-python)) on 2024-07-11
+
+## Contact
+
+For inquiries related to the talk, please write to info@egenix.com or contact Marc-André Lemburg at mal@egenix.com.
