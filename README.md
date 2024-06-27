@@ -12,6 +12,11 @@ We have been using PyRun internally at eGenix for many years and open sourced it
 
 The talk will go into details on how PyRun is built from the Python source tree, how to create your own single file Python apps, where it can be put to good use, the roadmap we have for PyRun and what its limitations are.
 
+## Resources
+
+- Github repo: [eGenix PyRun - Your friendly, lean, open source Python runtime](https://github.com/eGenix/egenix-pyrun)
+- Product page: [eGenix PyRun](https://pyrun.org/)
+
 ## Slides
 
 PDF slides of the talk will be available for download on this page:
