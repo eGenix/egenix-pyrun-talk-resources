@@ -21,7 +21,7 @@ The talk will go into details on how PyRun is built from the Python source tree,
 
 PDF slides of the talk will be available for download on this page:
 
-- *EuroPython 2024 Talk Slides as PDF*
+- [EuroPython 2024 Talk Slides as PDF](https://downloads.egenix.com/python/EuroPython-2024-Talk-PyRun.pdf)
 
 These are released under the same license as the other files in this directory.
 
