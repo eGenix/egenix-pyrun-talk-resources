@@ -29,7 +29,7 @@ These are released under the same license as the other files in this directory.
 
 This talk was or will be held at the following events:
 - [Python Meeting Düsseldorf](https://pyddf.de/) on 2024-07-03
-- [EuroPython 2024]([https://2024.pycon.it/en/event/advanced-parsing-of-structured-data-using-pythons-new-match-statement](https://ep2024.europython.eu/session/shipping-ready-to-run-python-apps-without-the-need-to-install-python)) on 2024-07-11
+- [EuroPython 2024](https://ep2024.europython.eu/session/shipping-ready-to-run-python-apps-without-the-need-to-install-python) on 2024-07-11
 
 ## Contact
 
